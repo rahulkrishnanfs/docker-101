@@ -2,12 +2,12 @@
 
 I would help you to build solid foundation on docker. Some of the areas I’ll be covering is
 
-Markup :  *Building blocks of containers
-          *Container Runtimes
-          *Building Docker images with Dockerfiles
-          *Overview of Docker Hub
-          *Container networking and storage
-          *Building multi-container Docker applications
+Markup :  * Building blocks of containers
+          * Container Runtimes
+          * Building Docker images with Dockerfiles
+          * Overview of Docker Hub
+          * Container networking and storage
+          * Building multi-container Docker applications
           
 About Rahulkrishnan R A
 
