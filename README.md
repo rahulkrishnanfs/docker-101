@@ -1,10 +1,12 @@
 # docker-101
 
-I would help you to build solid foundation on docker. Some of the areas I’ll be covering is
+This session will help you to build solid foundation on docker. Some of the areas I’ll be covering is
 
 Markup :  
+          
+   
           * Building blocks of containers
-
+          
           * Container Runtimes
           
           * Building Docker images with Dockerfiles
