@@ -2,7 +2,6 @@
 
 This session will help you to build solid foundation on docker. Some of the areas I’ll be covering is
 
-Markup :  
           
    
           * Building blocks of containers
